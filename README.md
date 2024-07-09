@@ -137,5 +137,5 @@ Será necessário cadastrar um cartão de crédito para rodar as pipeline na Har
 Habilite o `Enable Bi-Directional Sync` em `Account Settings`
 
 Vá em `pipelines`
-
+ Asas
 Marcelo
